@@ -15,7 +15,7 @@ role: Master's Student in Computer Science
 # Organizations/Affiliations
 organizations:
 - name: ETH Zürich
-  url: "www.ethz.ch"
+  url: "http://www.ethz.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -27,11 +27,11 @@ bio:
 
 education:
   courses:
-  - course: MSc in Computer Sceince
+  - course: MSc. in Computer Science
     institution: Eidgenossische Techniche Hochschule (ETH) Zürich
-    year: 2017 - Current
-  - course: B.E. (Hons) in Computer Science
-    institution: Birla Institute of Technology and Science, Pilani
+    year: 2017 - Present
+  - course: B.E. (Hons.) in Computer Science
+    institution: Birla Institute of Technology and Science (BITS), Pilani
     year: 2013 - 2017
 
 # Social/Academic Networking

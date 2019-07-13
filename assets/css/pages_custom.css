@@ -1,0 +1,12 @@
+.publication-name
+{
+    margin-top: 2px;
+    font-size: 0.8rem;
+    color: #606060;
+}
+
+.author-name span a 
+{
+    font-size: 0.65rem;
+    color: #858585;
+}

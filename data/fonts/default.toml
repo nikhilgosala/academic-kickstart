@@ -1,0 +1,15 @@
+# Font style metadata
+name = "alegreya"
+
+# Optional Google font URL
+google_fonts = "Alegreya:500,600|Noto+Sans|Alegreya+Sans:500"
+
+# Font families
+heading_font = "Alegreya Sans"
+body_font = "Alegreya Sans"
+nav_font = "Alegreya Sans"
+mono_font = "Alegreya Sans"
+
+# Font size
+font_size = "23"
+font_size_small = "19"

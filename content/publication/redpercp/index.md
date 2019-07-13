@@ -18,7 +18,8 @@ authors = ["**Nikhil Gosala**", "Andreas Bühler", "Manish Prajapat", "Claas Ehm
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Robotics and Automation 2019, Montréal, Canada."
+publication = "International Conference on Robotics and Automation (ICRA) 2019"
+publication_location = "Montréal, Canada"
 publication_short = "ICRA 2019"
 
 # Abstract and optional shortened version.
@@ -26,7 +27,7 @@ publication_short = "ICRA 2019"
 abstract = "In autonomous racing, vehicles operate close to the limits of handling and a sensor failure can have critical consequences. To limit the impact of such failures, this paper presents the redundant perception and state estimation approaches developed for an autonomous race car. Redundancy in perception is achieved by estimating the color and position of the track delimiting objects using two sensor modalities independently. Specifically, learning-based approaches are used to generate color and pose estimates, from LiDAR and camera data respectively. The redundant perception inputs are fused by a particle filter based SLAM algorithm that operates in real-time. Velocity is estimated using slip dynamics, with reliability being ensured through a probabilistic failure detection algorithm. The sub-modules are extensively evaluated in real-world racing conditions using the autonomous race car &quot;gotthard driverless&quot;, achieving lateral accelerations up to 1.7G and a top speed of 90km/h."
 
 # Featured image thumbnail (optional)
-#image_preview = "static/img/ftl.png"
+image_preview = "featured_redpercp.png"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -62,7 +63,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "ftl.png"
-#caption = "My caption :smile:"
+# image = "featured_redpercp.png"
+# caption = "My caption :smile:"
 
 +++

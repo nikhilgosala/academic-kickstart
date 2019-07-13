@@ -18,15 +18,19 @@ authors = ["BKSP Kumar Raju", "**Nikhil Gosala**", "G Geethakumari"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Ubiquitous Information Management and Communication"
+publication = "International Conference on Ubiquitous Information Management and Communication 2017"
+publication_location = "Beppu, Japan"
 publication_short = "IMCOM '17"
+
+# Write anything significant you want to mention here
+publication_extra = "" 
 
 # Abstract and optional shortened version.
 
 abstract = "The amalgamation of cloud computing and digital forensics created a new technological domain called cloud forensics. One of the technical challenges associated with cloud forensics is Event Reconstruction. Event reconstruction in cloud significantly differs from the traditional digital environment due to its multi-tenancy and large scale of events generated per unit time. In this paper, we suggest that effective event reconstruction is possible when the number of events in the target cloud evidence is reduced and we achieve the same by applying aggregation algorithms on cloud service logs. One of the popular log aggregation algorithms is the Leader-Follower (LF) algorithm. We observed that the LF algorithm, in its original form cannot be applied to cloud service logs. So, we propose two variants of it namely LFV1 and LFV2 to suit the aggregation requirements of cloud service logs."
 
 # Featured image thumbnail (optional)
-#image_preview = "static/img/ftl.png"
+# image_preview = "static/img/ftl.png"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -62,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "ftl.png"
+# image = "ftl.png"
 #caption = "My caption :smile:"
 
 +++
