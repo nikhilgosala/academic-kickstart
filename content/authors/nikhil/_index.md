@@ -75,4 +75,8 @@ I am Master's student in Computer Science at ETH Zürich and I am interested in 
 
 I am currently working as a research intern at nuTonomy/Aptiv, Singapore wherein I am focusing on improving the performance of detection and tracking of objects in real-time both by using radar only, and by fusing multiple sensor modalities.
 
-I was also part of the Akademischer Motorsportverein Zürich (AMZ) Driverless team for two seasons, wherein I worked on the LiDAR module of the car in the first season before leading the Perception and Software Architecture teams in the second season. 
+I was also part of the Akademischer Motorsportverein Zürich (AMZ) Driverless team for two seasons, wherein I worked on the LiDAR module of the car in the first season before leading the Perception and Software Architecture teams in the second season. [Here](https://youtu.be/HegmIXASKow?t=11691) is a video showing our car «gotthard driverless» zooming around autonomously at the competition in Germany.
+
+<!---
+My hobbies include playing sports, especially tennis, travelling, and photography. Some of my best photos can be found [here] and my travel journal can be found [here]!
+-->

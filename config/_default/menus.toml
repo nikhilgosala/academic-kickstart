@@ -18,15 +18,16 @@
   url = "#experience"
   weight = 30
 
-# [[main]]
-#   name = "Publications"
-#   url = "#featured"
-#   weight = 40
+#[[main]]
+#  name = "Photography"
+#  url = "#photography"
+#  weight = 60
 
-[[main]]
-  name = "Travel Blog"
-  url = "#travel-blog"
-  weight = 60
+#[[main]]
+#  name = "Travel Journal"
+#  url = "#travel-journal"
+#  weight = 80
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
